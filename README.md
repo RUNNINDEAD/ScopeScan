@@ -13,8 +13,7 @@ This project is designed for learning, home labs, and defensive security practic
 - Python **3.10+** installed
 - Nmap installed and available in PATH
 
-### Install dependencies (Debian / Ubuntu / Pop!_OS)
+### Install dependencies (Debian / Ubuntu)
 
-```bash
-sudo apt update
-sudo apt install nmap arp-scan python3
+## Python Requirements 
+``` pip install requirements.txt
