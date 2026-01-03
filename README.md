@@ -16,4 +16,4 @@ This project is designed for learning, home labs, and defensive security practic
 ### Install dependencies (Debian / Ubuntu)
 
 ## Python Requirements 
-``` pip install requirements.txt
+pip install requirements.txt
