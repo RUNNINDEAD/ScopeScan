@@ -131,7 +131,7 @@ def main():
         choice = input("\nWould you like to run an Nmap scan? (y/n): ").strip().lower()
 
         if choice == "n":
-            print("Okay — scan not started.")
+            print("Scan was not initiated. Exiting...")
             return
         elif choice != "y":
             print("Invalid choice.")
