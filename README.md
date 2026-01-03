@@ -13,7 +13,4 @@ This project is designed for learning, home labs, and defensive security practic
 - Python **3.10+** installed
 - Nmap installed and available in PATH
 
-### Install dependencies (Debian / Ubuntu)
 
-## Python Requirements 
-pip install -r requirements.txt
